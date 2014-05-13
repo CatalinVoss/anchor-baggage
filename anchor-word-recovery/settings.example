@@ -1,0 +1,21 @@
+# Example settings file
+max_threads=8
+
+# file names
+log_prefix=log
+checkpoint_prefix=checkpoint
+
+#low dimension for finding anchor words
+new_dim=1000
+
+#precision for optimization steps
+eps=10e-7
+
+#random seed (if not specified default is to use the clock)
+seed=100
+
+#number of top words to display
+top_words=10
+
+#do not allow anchor words that appear in fewer than N documents
+anchor_thresh=100

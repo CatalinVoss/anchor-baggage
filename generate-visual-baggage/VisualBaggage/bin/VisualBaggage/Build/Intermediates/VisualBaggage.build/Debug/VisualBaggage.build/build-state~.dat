@@ -1,0 +1,59 @@
+TVisualBaggage
+v6
+r1
+cCheck dependencies
+cCompileC bin/VisualBaggage/Build/Intermediates/VisualBaggage.build/Debug/VisualBaggage.build/Objects-normal/x86_64/main.o /Users/Catalin/projects/VisualBaggage/VisualBaggage/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000526749F7000000000000044C
+t1382500855
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005323347C00000000000001DE
+t1394816124
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c000000005323347E0000000000000ADC
+t1394816126
+s2780
+
+N/Users/Catalin/projects/VisualBaggage/VisualBaggage/main.cpp
+c0000000053701059000000000000012D
+t1399853145
+s301
+
+N/Users/Catalin/projects/VisualBaggage/bin/VisualBaggage/Build/Intermediates/VisualBaggage.build/Debug/VisualBaggage.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+CBuild AST from /Users/Catalin/projects/VisualBaggage/VisualBaggage/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies545203da4720b941^628408da4720b941^---0#1#1#--18"Check dependencies36"7E92DB3A-7D79-4F29-BAB8-11C2BD617434-
+
+CCompileC bin/VisualBaggage/Build/Intermediates/VisualBaggage.build/Debug/VisualBaggage.build/Objects-normal/x86_64/main.o /Users/Catalin/projects/VisualBaggage/VisualBaggage/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s421545946.047496
+e421545946.760762
+r0
+xCompileC
+xbin/VisualBaggage/Build/Intermediates/VisualBaggage.build/Debug/VisualBaggage.build/Objects-normal/x86_64/main.o
+x/Users/Catalin/projects/VisualBaggage/VisualBaggage/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Catalin/projects/VisualBaggage/VisualBaggage/main.cpp
+o/Users/Catalin/projects/VisualBaggage/VisualBaggage/main.cpp:19:1: error: expected unqualified-id
+o/usr/local/include
+o^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/Catalin/projects/VisualBaggage/VisualBaggage/main.cpp206"CompileC bin/VisualBaggage/Build/Intermediates/VisualBaggage.build/Debug/VisualBaggage.build/Objects-normal/x86_64/main.o VisualBaggage/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler6ccf0cda4720b941^9dbec2da4720b941^-138"/Users/Catalin/projects/VisualBaggage/VisualBaggage/main.cpp:19:1: error: expected unqualified-id/usr/local/include^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@23"Expected unqualified-id-421545946#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@67"file:///Users/Catalin/projects/VisualBaggage/VisualBaggage/main.cpp0000000000000000^18#0#18#0#283#0#11"Parse Issue--0#0#1#-19%DVTDocumentLocation4@67"file:///Users/Catalin/projects/VisualBaggage/VisualBaggage/main.cpp0000000000000000^3285"CompileC bin/VisualBaggage/Build/Intermediates/VisualBaggage.build/Debug/VisualBaggage.build/Objects-normal/x86_64/main.o VisualBaggage/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Catalin/projects/VisualBaggage    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/Catalin/projects/VisualBaggage/bin/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Catalin/projects/VisualBaggage/bin/VisualBaggage/Build/Intermediates/VisualBaggage.build/Debug/VisualBaggage.build/VisualBaggage-generated-files.hmap -I/Users/Catalin/projects/VisualBaggage/bin/VisualBaggage/Build/Intermediates/VisualBaggage.build/Debug/VisualBaggage.build/VisualBaggage-own-target-headers.hmap -I/Users/Catalin/projects/VisualBaggage/bin/VisualBaggage/Build/Intermediates/VisualBaggage.build/Debug/VisualBaggage.build/VisualBaggage-all-target-headers.hmap -iquote /Users/Catalin/projects/VisualBaggage/bin/VisualBaggage/Build/Intermediates/VisualBaggage.build/Debug/VisualBaggage.build/VisualBaggage-project-headers.hmap -I/Users/Catalin/projects/VisualBaggage/bin/VisualBaggage/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/Users/Catalin/projects/VisualBaggage/bin/VisualBaggage/Build/Intermediates/VisualBaggage.build/Debug/VisualBaggage.build/DerivedSources/x86_64 -I/Users/Catalin/projects/VisualBaggage/bin/VisualBaggage/Build/Intermediates/VisualBaggage.build/Debug/VisualBaggage.build/DerivedSources -F/Users/Catalin/projects/VisualBaggage/bin/VisualBaggage/Build/Products/Debug -MMD -MT dependencies -MF /Users/Catalin/projects/VisualBaggage/bin/VisualBaggage/Build/Intermediates/VisualBaggage.build/Debug/VisualBaggage.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/Catalin/projects/VisualBaggage/bin/VisualBaggage/Build/Intermediates/VisualBaggage.build/Debug/VisualBaggage.build/Objects-normal/x86_64/main.dia -c /Users/Catalin/projects/VisualBaggage/VisualBaggage/main.cpp -o /Users/Catalin/projects/VisualBaggage/bin/VisualBaggage/Build/Intermediates/VisualBaggage.build/Debug/VisualBaggage.build/Objects-normal/x86_64/main.o36"93397773-E229-4F8B-9945-D9166B60FB96-
+bE2F96055-4229-4BF4-9272-179B6AC7F3EF
+
+CLd /Users/Catalin/projects/VisualBaggage/bin/VisualBaggage/Build/Products/Debug/VisualBaggage normal x86_64
+r0
+
